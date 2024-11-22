@@ -1,0 +1,7 @@
+C:\Users\LAPTOP\source\repos\BT-Win\BT-Win\bin\Debug\BT-Win.exe.config
+C:\Users\LAPTOP\source\repos\BT-Win\BT-Win\bin\Debug\BT-Win.exe
+C:\Users\LAPTOP\source\repos\BT-Win\BT-Win\bin\Debug\BT-Win.pdb
+C:\Users\LAPTOP\source\repos\BT-Win\BT-Win\obj\Debug\BT-Win.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\source\repos\BT-Win\BT-Win\obj\Debug\BT-Win.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\BT-Win\BT-Win\obj\Debug\BT-Win.exe
+C:\Users\LAPTOP\source\repos\BT-Win\BT-Win\obj\Debug\BT-Win.pdb
