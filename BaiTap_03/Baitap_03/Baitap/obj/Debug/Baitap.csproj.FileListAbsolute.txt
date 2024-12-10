@@ -1,0 +1,30 @@
+F:\VS\Baitap\Baitap\bin\Debug\Baitap.exe.config
+F:\VS\Baitap\Baitap\bin\Debug\Baitap.exe
+F:\VS\Baitap\Baitap\bin\Debug\Baitap.pdb
+F:\VS\Baitap\Baitap\obj\Debug\Baitap.csproj.AssemblyReference.cache
+F:\VS\Baitap\Baitap\obj\Debug\Baitap.Form1.resources
+F:\VS\Baitap\Baitap\obj\Debug\Baitap.Properties.Resources.resources
+F:\VS\Baitap\Baitap\obj\Debug\Baitap.csproj.GenerateResource.cache
+F:\VS\Baitap\Baitap\obj\Debug\Baitap.csproj.CoreCompileInputs.cache
+F:\VS\Baitap\Baitap\obj\Debug\Baitap.exe
+F:\VS\Baitap\Baitap\obj\Debug\Baitap.pdb
+F:\VS\Baitap_03\Baitap\bin\Debug\Baitap.exe.config
+F:\VS\Baitap_03\Baitap\bin\Debug\Baitap.exe
+F:\VS\Baitap_03\Baitap\bin\Debug\Baitap.pdb
+F:\VS\Baitap_03\Baitap\obj\Debug\Baitap.csproj.AssemblyReference.cache
+F:\VS\Baitap_03\Baitap\obj\Debug\Baitap.Form1.resources
+F:\VS\Baitap_03\Baitap\obj\Debug\Baitap.Properties.Resources.resources
+F:\VS\Baitap_03\Baitap\obj\Debug\Baitap.csproj.GenerateResource.cache
+F:\VS\Baitap_03\Baitap\obj\Debug\Baitap.csproj.CoreCompileInputs.cache
+F:\VS\Baitap_03\Baitap\obj\Debug\Baitap.exe
+F:\VS\Baitap_03\Baitap\obj\Debug\Baitap.pdb
+C:\Users\LAPTOP\Documents\Zalo Received Files\Baitap_03\Baitap_03\Baitap\bin\Debug\Baitap.exe.config
+C:\Users\LAPTOP\Documents\Zalo Received Files\Baitap_03\Baitap_03\Baitap\bin\Debug\Baitap.exe
+C:\Users\LAPTOP\Documents\Zalo Received Files\Baitap_03\Baitap_03\Baitap\bin\Debug\Baitap.pdb
+C:\Users\LAPTOP\Documents\Zalo Received Files\Baitap_03\Baitap_03\Baitap\obj\Debug\Baitap.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Documents\Zalo Received Files\Baitap_03\Baitap_03\Baitap\obj\Debug\Baitap.Form1.resources
+C:\Users\LAPTOP\Documents\Zalo Received Files\Baitap_03\Baitap_03\Baitap\obj\Debug\Baitap.Properties.Resources.resources
+C:\Users\LAPTOP\Documents\Zalo Received Files\Baitap_03\Baitap_03\Baitap\obj\Debug\Baitap.csproj.GenerateResource.cache
+C:\Users\LAPTOP\Documents\Zalo Received Files\Baitap_03\Baitap_03\Baitap\obj\Debug\Baitap.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Documents\Zalo Received Files\Baitap_03\Baitap_03\Baitap\obj\Debug\Baitap.exe
+C:\Users\LAPTOP\Documents\Zalo Received Files\Baitap_03\Baitap_03\Baitap\obj\Debug\Baitap.pdb
