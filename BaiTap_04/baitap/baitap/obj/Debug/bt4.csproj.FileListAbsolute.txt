@@ -1,0 +1,11 @@
+E:\CSDL\sourcewinform\bt4\bt4\obj\Debug\bt4.csproj.AssemblyReference.cache
+E:\CSDL\sourcewinform\bt4\bt4\obj\Debug\bt4.FormMain.resources
+E:\CSDL\sourcewinform\bt4\bt4\obj\Debug\bt4.FormNhanVien.resources
+E:\CSDL\sourcewinform\bt4\bt4\obj\Debug\bt4.Properties.Resources.resources
+E:\CSDL\sourcewinform\bt4\bt4\obj\Debug\bt4.csproj.GenerateResource.cache
+E:\CSDL\sourcewinform\bt4\bt4\obj\Debug\bt4.csproj.CoreCompileInputs.cache
+E:\CSDL\sourcewinform\bt4\bt4\bin\Debug\bt4.exe.config
+E:\CSDL\sourcewinform\bt4\bt4\bin\Debug\bt4.exe
+E:\CSDL\sourcewinform\bt4\bt4\bin\Debug\bt4.pdb
+E:\CSDL\sourcewinform\bt4\bt4\obj\Debug\bt4.exe
+E:\CSDL\sourcewinform\bt4\bt4\obj\Debug\bt4.pdb

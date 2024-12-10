@@ -1,0 +1,11 @@
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\bin\Debug\bt4.exe.config
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\bin\Debug\bt4.exe
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\bin\Debug\bt4.pdb
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\obj\Debug\Bài Tập_04.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\obj\Debug\bt4.FormNhanVien.resources
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\obj\Debug\bt4.Properties.Resources.resources
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\obj\Debug\Bài Tập_04.csproj.GenerateResource.cache
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\obj\Debug\Bài Tập_04.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\obj\Debug\bt4.exe
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\obj\Debug\bt4.pdb
+C:\Users\LAPTOP\Documents\Zalo Received Files\bt4\bt4\bt4\obj\Debug\bt4.ListView.resources
