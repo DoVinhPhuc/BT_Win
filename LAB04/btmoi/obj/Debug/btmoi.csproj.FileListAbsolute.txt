@@ -1,0 +1,10 @@
+C:\Users\LAPTOP\source\repos\btmoi\bin\Debug\btmoi.exe.config
+C:\Users\LAPTOP\source\repos\btmoi\bin\Debug\btmoi.exe
+C:\Users\LAPTOP\source\repos\btmoi\bin\Debug\btmoi.pdb
+C:\Users\LAPTOP\source\repos\btmoi\obj\Debug\btmoi.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\source\repos\btmoi\obj\Debug\btmoi.Form1.resources
+C:\Users\LAPTOP\source\repos\btmoi\obj\Debug\btmoi.Properties.Resources.resources
+C:\Users\LAPTOP\source\repos\btmoi\obj\Debug\btmoi.csproj.GenerateResource.cache
+C:\Users\LAPTOP\source\repos\btmoi\obj\Debug\btmoi.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\btmoi\obj\Debug\btmoi.exe
+C:\Users\LAPTOP\source\repos\btmoi\obj\Debug\btmoi.pdb
